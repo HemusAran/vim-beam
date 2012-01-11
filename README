@@ -1,0 +1,3 @@
+ncursesが必要。
+./configure --enable-widec をすること
+あとはコンパイル時に -lncursesw を付けること
